@@ -2,7 +2,7 @@
 
 I'm a B.Tech Computer Science student who enjoys building practical software solutions using Artificial Intelligence, Data Analytics, and Software Development.
 
-I believe the best way to learn is by building real projects that solve real problems. I'm currently preparing for software engineering placements while continuously improving my technical and problem-solving skills.
+I enjoy learning by building practical projects and understanding how different technologies work together. I'm currently preparing for software engineering placements while continuously improving my technical and problem-solving skills.
 
 ---
 
