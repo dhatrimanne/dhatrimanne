@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Dhatri Manne
 
-<!--
-**dhatrimanne/dhatrimanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student who enjoys building practical software solutions using Artificial Intelligence, Data Analytics, and Software Development.
 
-Here are some ideas to get you started:
+I believe the best way to learn is by building real projects that solve real problems. I'm currently preparing for software engineering placements while continuously improving my technical and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### SkillMap AI
+
+SkillMap AI is an adaptive AI learning platform that generates personalized learning roadmaps based on a learner's skills, career goals, and progress.
+
+The application combines AI-powered roadmap generation, Retrieval-Augmented Generation (RAG), adaptive learning analysis, project recommendations, and progress tracking into a single platform.
+
+**Repository**
+
+https://github.com/dhatrimanne/skillmap-ai
+
+**Live Demo**
+
+https://skillmap-ui.onrender.com
+
+---
+
+## Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Software Development
+* Product Management
+
+---
+
+## Currently Learning
+
+* Building production-ready software projects
+* Machine Learning and Generative AI
+* Data Analytics and Power BI
+* System Design fundamentals
+* Backend development
+
+---
+
+## Current Goal
+
+I'm focused on building strong software engineering skills through practical projects and preparing for placement opportunities.
+
+---
+
+## Connect
+
+GitHub:
+https://github.com/dhatrimanne
